@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Winta38/ajs-8-chat-frontend.git"
+    "url": "git+https://github.com/Winta38/ajs-8-chat-backend.git"
   },
   "author": "Winta38",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Winta38/ajs-8-chat-frontend/issues"
+    "url": "https://github.com/Winta38/ajs-8-chat-backend/issues"
   },
-  "homepage": "https://github.com/Winta38/ajs-8-chat-frontend#readme",
+  "homepage": "https://github.com/Winta38/ajs-8-chat-backend#readme",
   "dependencies": {
     "@koa/cors": "^4.0.0",
     "forever": "^4.0.3",
